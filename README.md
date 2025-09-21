@@ -36,7 +36,7 @@
 
 ###
 
-<p align="left">Desarrollador Junior Apasionado por el desarrollo y creación cosas nuevas e innovadoras   <br><br>-> 👨‍💻 Estudiante Activo de la Universidad "San Carlos de Guatemala"<br>-> 💾 Me apasiona la creación de herramientas y aplicaciones que den soluciones creativas e innovadoras a todo tipo de problemáticas  <br>-> ⚡ Dedico mi tiempo en aprender habilidades nuevas y herramientas que me ayuden a mejorar mis habilidades profesionales en el mundo de la programación<br>-> Actualmente estoy en constante aprendizaje buscando proyectos innovadores para ampliar mis habilidades <br>-> 📩 Puedes contactarme por: d.portillo.4adb@gmamil.com</p>
+<p align="left">Desarrollador Junior Apasionado por el desarrollo y creación cosas nuevas e innovadoras   <br><br>-> 👨‍💻 Estudiante Activo de la Universidad "San Carlos de Guatemala"<br>-> 💾 Me apasiona la creación de herramientas y aplicaciones que den soluciones creativas e innovadoras a todo tipo de problemáticas  <br>-> ⚡ Dedico mi tiempo en aprender habilidades nuevas y herramientas que me ayuden a mejorar mis habilidades profesionales en el mundo de la programación<br>-> 📋 Actualmente estoy en constante aprendizaje buscando proyectos innovadores para ampliar mis habilidades <br>-> 📩 Puedes contactarme por: d.portillo.4adb@gmamil.com</p>
 
 ###
 
